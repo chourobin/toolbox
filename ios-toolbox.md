@@ -22,3 +22,9 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 
 - [Blue Dots](https://github.com/adamwulf/ios-uitouch-bluedots)
   - Simple code to add blue dots for every UITouch in an app - Helpful for recording app demos that show touch locations during use.
+
+### Tutorials
+
+- [Multi-Environment](http://stackoverflow.com/questions/10796159/manage-ios-enterprise-developer-program)
+  - Setup your iOS project for multiple environments.
+  - Visit [setting up Facebook](http://stackoverflow.com/questions/10796159/manage-ios-enterprise-developer-program) as well.

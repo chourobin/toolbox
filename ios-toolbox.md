@@ -23,6 +23,11 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 - [Blue Dots](https://github.com/adamwulf/ios-uitouch-bluedots)
   - Simple code to add blue dots for every UITouch in an app - Helpful for recording app demos that show touch locations during use.
 
+### CI / Over the Air Distrubution
+
+- [ota-tools](https://github.com/RichardBronosky/ota-tools)
+  - A burgeoning collection of tools for Over-The-Air distribution of mobile applications.
+
 ### Best Practices
 
 - [Swift Styleguide](https://github.com/raywenderlich/swift-style-guide)

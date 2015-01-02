@@ -36,6 +36,7 @@ A collection of useful libraries and resources covering Ruby, Rails, and Web Dev
 - [Zonebie](https://github.com/highgroove/zonebie)
 - [Meta Request & RailsPanel](https://github.com/dejan/rails_panel/tree/master/meta_request)
 - [Postgres API](https://github.com/begriffs/postgrest)
+- [ICE](https://github.com/Netflix/ice)
 
 ### Useful services
 

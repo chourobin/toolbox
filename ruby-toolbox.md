@@ -35,6 +35,7 @@ A collection of useful libraries and resources covering Ruby, Rails, and Web Dev
 - [Timezone](https://github.com/panthomakos/timezone)
 - [Zonebie](https://github.com/highgroove/zonebie)
 - [Meta Request & RailsPanel](https://github.com/dejan/rails_panel/tree/master/meta_request)
+- [Postgres API](https://github.com/begriffs/postgrest)
 
 ### Useful services
 

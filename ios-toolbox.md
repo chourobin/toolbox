@@ -11,6 +11,11 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 - [Keyboard Cache](https://github.com/mbrandonw/UIResponder-KeyboardCache)
   - A simple workaround to the annoying problem of keyboard lag.
 
+#### Core Data
+
+- [Sugar Record](https://github.com/SugarRecord/SugarRecord)
+- [Magical Record](https://github.com/magicalpanda/MagicalRecord)
+
 ### Resources
 
 ### Performance
@@ -22,6 +27,11 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 
 - [Blue Dots](https://github.com/adamwulf/ios-uitouch-bluedots)
   - Simple code to add blue dots for every UITouch in an app - Helpful for recording app demos that show touch locations during use.
+
+### Documentation
+
+- [Jazzy](https://github.com/realm/jazzy)
+  - Documentation generator for swift projects
 
 ### CI/Automation
 
@@ -38,3 +48,6 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 - [Multi-Environment](http://stackoverflow.com/questions/10796159/manage-ios-enterprise-developer-program)
   - Setup your iOS project for multiple environments.
   - Visit [setting up Facebook](http://stackoverflow.com/questions/10796159/manage-ios-enterprise-developer-program) as well.
+- [Mantle/CoreData](http://chroman.me/blog/)
+  - Setting up mantle, core data
+- [Core Data and Threads](http://www.cimgf.com/2011/05/04/core-data-and-threads-without-the-headache/)

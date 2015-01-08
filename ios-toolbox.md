@@ -37,8 +37,10 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 
 ### CI/Automation
 
-- [provise](https://github.com/felipesabino/provise)
+- [Resign-IPA](https://github.com/talk-to/resign-ipa)
   - CLI for re-signing iOS Apps (.ipa files).
+- [Refresh Provisoning](https://gist.github.com/fabb/5deb483caec8e0336484)
+  - Download provisioning profiles using Cupertino
 
 ### Best Practices
 

@@ -10,6 +10,8 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 
 - [Keyboard Cache](https://github.com/mbrandonw/UIResponder-KeyboardCache)
   - A simple workaround to the annoying problem of keyboard lag.
+- [Pure Layout](https://github.com/smileyborg/PureLayout)
+  - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
 
 #### Core Data
 
@@ -47,7 +49,7 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 
 - [Multi-Environment](http://stackoverflow.com/questions/10796159/manage-ios-enterprise-developer-program)
   - Setup your iOS project for multiple environments.
-  - Visit [setting up Facebook](http://stackoverflow.com/questions/10796159/manage-ios-enterprise-developer-program) as well.
+  - Visit [setting up Facebook](http://stackoverflow.com/questions/22304558/ios-different-bundle-ids-map-to-the-same-app) as well.
 - [Mantle/CoreData](http://chroman.me/blog/)
   - Setting up mantle, core data
 - [Core Data and Threads](http://www.cimgf.com/2011/05/04/core-data-and-threads-without-the-headache/)

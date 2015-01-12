@@ -6,6 +6,11 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 
 ## Links
 
+### Style Guides
+
+- [Github Swift Style Guide](https://github.com/github/swift-style-guide)
+- [Ray Wenderlich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
+
 ### Core Utilities
 
 - [Keyboard Cache](https://github.com/mbrandonw/UIResponder-KeyboardCache)

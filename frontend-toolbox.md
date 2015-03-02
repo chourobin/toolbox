@@ -1,5 +1,15 @@
 # Frontend Toolbox
 
+
+## Best Practices
+
+- [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
+  - Some HTML, CSS and JS best practices.
+
+## Resources
+
+- [Frontend Stuff](https://github.com/moklick/frontend-stuff)
+
 ## Libraries
 
 - [React Grid Layout](https://github.com/STRML/react-grid-layout)

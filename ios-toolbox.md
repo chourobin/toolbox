@@ -6,6 +6,20 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 
 ## Links
 
+### UI Controls
+
+- [Atlas-iOS](https://github.com/layerhq/Atlas-iOS)
+  - Atlas is a library of native iOS communications user interface components.
+- [Pull to Refresh](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS)
+- [UIColor+Additions](https://github.com/vilanovi/UIColor-Additions)
+- [UIImage+Additions](https://github.com/vilanovi/UIImage-Additions)
+- [DAAlertController](https://github.com/daria-kopaliani/DAAlertController)
+  - DAAlertController is pretty much a UIAlertController for both iOS 8 and 7.
+- [PSTAlertController](https://github.com/steipete/PSTAlertController)
+  - API similar to UIAlertController, backwards compatible to iOS 7. Will use the new shiny API when you run iOS 8.
+- [PathDynamicModal](https://github.com/ra1028/PathDynamicModal)
+  - A modal view using UIDynamicAnimator, like the Path for iOS.
+
 ### Style Guides
 
 - [Github Swift Style Guide](https://github.com/github/swift-style-guide)
@@ -17,6 +31,7 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
   - A simple workaround to the annoying problem of keyboard lag.
 - [Pure Layout](https://github.com/smileyborg/PureLayout)
   - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
+- [UIColor Additions](https://github.com/vilanovi/UIColor-Additions)
 
 #### Core Data
 
@@ -25,6 +40,7 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 
 ### Resources
 
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Deep Link Framework](https://github.com/usebutton/ios-deeplink-sdk)
   - A splendid route-matching, block-based way to handle your deep links.
 
@@ -42,6 +58,11 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 
 - [Jazzy](https://github.com/realm/jazzy)
   - Documentation generator for swift projects
+
+### Testing
+
+- [MockingJay](https://github.com/kylef/Mockingjay)
+- [Specta](https://github.com/specta/expecta)
 
 ### CI/Automation
 

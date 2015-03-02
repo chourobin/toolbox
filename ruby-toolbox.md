@@ -52,4 +52,6 @@ A collection of useful libraries and resources covering Ruby, Rails, and Web Dev
 
 ### Useful libraries
 
+- [Fasterer](https://github.com/DamirSvrtan/fasterer)
+  - Don't make your Rubies go fast. Make them go fasterer ™.
 - [Respimage](https://github.com/aFarkas/respimage)

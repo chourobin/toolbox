@@ -19,6 +19,8 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
   - API similar to UIAlertController, backwards compatible to iOS 7. Will use the new shiny API when you run iOS 8.
 - [PathDynamicModal](https://github.com/ra1028/PathDynamicModal)
   - A modal view using UIDynamicAnimator, like the Path for iOS.
+- [DFImageManager](https://github.com/kean/DFImageManager)
+- [Async Display Kit](http://asyncdisplaykit.org)
 
 ### Style Guides
 

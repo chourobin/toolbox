@@ -1,4 +1,4 @@
-# Frontend Toolbox
+sions# Frontend Toolbox
 
 
 ## Best Practices
@@ -20,3 +20,7 @@
 - [Hover](http://ianlunn.github.io/Hover/)
   - Hover effects in css3
 - [Radium](http://projects.formidablelabs.com/radium/)
+- [Swiper](https://github.com/nolimits4web/Swiper)
+  - Mobile slider
+- [Plyr](https://github.com/selz/plyr)
+  - HTML5 media player

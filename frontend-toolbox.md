@@ -24,3 +24,6 @@ sions# Frontend Toolbox
   - Mobile slider
 - [Plyr](https://github.com/selz/plyr)
   - HTML5 media player
+- [Awesome React](https://github.com/enaqx/awesome-react)
+- [Essential React](https://github.com/pheuter/essential-react)
+- [CSS Experiments](https://github.com/hakimel/css)

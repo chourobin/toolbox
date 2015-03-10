@@ -34,6 +34,7 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 - [Pure Layout](https://github.com/smileyborg/PureLayout)
   - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
 - [UIColor Additions](https://github.com/vilanovi/UIColor-Additions)
+- [ReactKit](https://github.com/ReactKit/ReactKit)
 
 #### Core Data
 

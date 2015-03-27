@@ -21,6 +21,7 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
   - A modal view using UIDynamicAnimator, like the Path for iOS.
 - [DFImageManager](https://github.com/kean/DFImageManager)
 - [Async Display Kit](http://asyncdisplaykit.org)
+- [FlexibleHeader](https://github.com/bryankeller/BLKFlexibleHeightBar)
 
 ### Style Guides
 
@@ -35,6 +36,16 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
   - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
 - [UIColor Additions](https://github.com/vilanovi/UIColor-Additions)
 - [ReactKit](https://github.com/ReactKit/ReactKit)
+- [Carthage](https://github.com/Carthage/Carthage)
+  - Dependency manager
+- [Swifty](https://github.com/SwiftyJSON/SwiftyJSON)
+  - Better handling of JSON
+- [Dollar.swift](https://github.com/ankurp/Dollar.swift)
+  - Functional methods to extend swift classes
+- [ExSwift](https://github.com/pNre/ExSwift)
+  - A set of Swift extensions for standard types and classes.
+- [ios-charts](https://github.com/danielgindi/ios-charts)
+  - An iOS port of the beautiful MPAndroidChart.
 
 #### Core Data
 
@@ -87,3 +98,4 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 - [Mantle/CoreData](http://chroman.me/blog/)
   - Setting up mantle, core data
 - [Core Data and Threads](http://www.cimgf.com/2011/05/04/core-data-and-threads-without-the-headache/)
+- [WatchKit](https://github.com/kostiakoval/WatchKit-Apps)

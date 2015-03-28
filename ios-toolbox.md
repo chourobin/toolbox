@@ -22,6 +22,7 @@ A collection of useful libraries and resources covering iOS Development, Swift, 
 - [DFImageManager](https://github.com/kean/DFImageManager)
 - [Async Display Kit](http://asyncdisplaykit.org)
 - [FlexibleHeader](https://github.com/bryankeller/BLKFlexibleHeightBar)
+- [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer)
 
 ### Style Guides
 
